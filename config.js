@@ -16,15 +16,15 @@ global.autoviewstatus = false;                 //make true to view statuses
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
-global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
-global.author = "TAIRA MAKINO";                               //Do not change.
-global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; 
-global.SupportGroupLink = "https://chat.whatsapp.com/DOVRqF006VHHZhiSNwJRce"; //Do not change!
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-egkkDQyY#5bzYg1_zPrAW2pCngC1CoD3E4jqdA1BpxfhnRWKuAKk"
+global.Owner = ["2349115983460"]; //like 2347080968564 
+global.OwnerName =  "Joshua";
+global.BotName = "♱Josh Tech♱♡⃤";
+global.packname = "♱Josh stickers♱♡⃤";                             //Do not change.
+global.author = "Okoye Joshua";                               //Do not change.
+global.BotSourceCode = "https://github.com/Jo-byte-hub/MAKINO-MD-V2"; //Do not change.
+global.SupportGroupLink = ""; 
+global.SupportGroupLink = ""; //Do not change!
 global.menutype = "v3"
 
 global.prefa = ['','!','.',','] 
